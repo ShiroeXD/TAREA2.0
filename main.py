@@ -102,3 +102,4 @@ if __name__ == '__main__':
     menu_principal()
 print ("Ojala funcione")
 print ("Hola soy Richard")
+print ("Hola soy Richard Ore")
