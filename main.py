@@ -101,3 +101,4 @@ def salir():
 if __name__ == '__main__':
     menu_principal()
 print ("Ojala funcione")
+print ("Hola soy Richard")
