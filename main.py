@@ -1,5 +1,5 @@
 
-#Marjori - Ricahrd - Felipe
+#Marjori - Richard - Felipe
 import requests
 
 class Pokemon:
@@ -100,3 +100,4 @@ def salir():
 
 if __name__ == '__main__':
     menu_principal()
+print ("Ojala funcione")
